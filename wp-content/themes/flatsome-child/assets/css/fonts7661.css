@@ -1,0 +1,34 @@
+/*
+Theme Name: VinaWebsite.VN
+Description: Templates develop by vinahost.vn
+Author: VINAHOST.VN
+Template: flatsome
+Support: website@vinahost.vn
+Version: 1.0
+*/
+@font-face {
+    font-family: 'MYRIADPRO-BOLDCOND';
+    src: url('MyriadPro-BoldCond.html') format('woff2'),
+        url('MyriadPro-BoldCond-2.html') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+    font-family: 'UTM Aquarelle';
+    src: url('UTMAquarelle.html') format('woff2'),
+        url('UTMAquarelle-2.html') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MYRIADPRO-BOLDCOND';
+    src: url('MyriadPro-BoldCond.html') format('woff2'),
+        url('MyriadPro-BoldCond-2.html') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+    font-family: 'UTM Aquarelle';
+    src: url('UTMAquarelle.html') format('woff2'),
+        url('UTMAquarelle-2.html') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
